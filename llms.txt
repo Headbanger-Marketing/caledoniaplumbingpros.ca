@@ -1,2 +1,25 @@
 # Caledonia Plumbing Pros
-HVAC services in Ontario.
+
+> Caledonia Plumbing Pros is a local HVAC company serving Caledonia, Haldimand, Ontario, offering furnace repair, AC repair, ductless mini-split installation, heat pump repair and installation, fireplace installation, thermostat repair, and duct cleaning to homeowners across the region.
+
+Phone: (905) 765-3418  |  Email: contact@caledoniaplumbingpros.ca  |  Website: https://caledoniaplumbingpros.ca
+
+## Key pages
+
+- [Home](https://caledoniaplumbingpros.ca/): Caledonia Plumbing Pros homepage with service overview and FAQ
+- [About](https://caledoniaplumbingpros.ca/about/): About the company and service area
+- [Contact](https://caledoniaplumbingpros.ca/contact/): Request a free quote or service call
+
+## Services
+
+- [Water Heaters](https://caledoniaplumbingpros.ca/services/water-heaters/): Water Heaters in Caledonia, Ontario
+- [Drain Cleaning](https://caledoniaplumbingpros.ca/services/drain-cleaning/): Drain Cleaning in Caledonia, Ontario
+- [Repiping](https://caledoniaplumbingpros.ca/services/repiping/): Repiping in Caledonia, Ontario
+- [Fixtures & Toilets](https://caledoniaplumbingpros.ca/services/fixtures-toilets/): Fixtures & Toilets in Caledonia, Ontario
+- [Leak Detection & Repair](https://caledoniaplumbingpros.ca/services/leak-detection/): Leak Detection & Repair in Caledonia, Ontario
+- [Sump Pumps & Backwater](https://caledoniaplumbingpros.ca/services/sump-pumps/): Sump Pumps & Backwater in Caledonia, Ontario
+- [Water Softeners & Filtration](https://caledoniaplumbingpros.ca/services/water-softeners/): Water Softeners & Filtration in Caledonia, Ontario
+
+## FAQ
+
+Common questions about HVAC service in Caledonia are answered on the homepage.
